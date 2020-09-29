@@ -4,11 +4,11 @@ This repository is a collection of the scripts and network diagrams created in C
 
 The files in this repository were used to configure the network depicted below.
 
-See Screenshots
+SEE IMAGES FOLDER
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Filebeat Config file may be used to install only certain pieces of it, such as Filebeat.
 
-See Filebeat Playbook
+SEE IMAGES FOLDER 
 
 This document contains the following details:
 - Description of the Topology
@@ -70,7 +70,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-See Docker ps screenshot
+SEE IMAGES FOLDER
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
